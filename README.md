@@ -1,7 +1,7 @@
 # CS-230
 Operating Platforms
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? \n
   The Gaming Room client is a gaming company with a popular game called draw it or lose it. The client wanted to take their game and make it cross plateform to expand their customer bases and wanted a recommendation on what OS to use to create the cross platform gaming experience.
 
 What did you do particularly well in developing this documentation?
